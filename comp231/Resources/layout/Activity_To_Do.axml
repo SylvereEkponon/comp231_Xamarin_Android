@@ -46,4 +46,10 @@
         android:layout_height="wrap_content"
         tools:listitem="@layout/row_list_to_do"
         android:padding="6dip" />
+    <TextView
+        android:text="Testing Sample"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
 </LinearLayout>
